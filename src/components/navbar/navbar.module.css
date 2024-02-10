@@ -32,3 +32,12 @@
     font-weight: 500;
     font-style: italic;
 }
+
+.menu {
+    display: flex;
+    align-items: center;
+    width: 20%;
+    font-size: 15px;
+    font-weight: 600;
+    justify-content: space-between;
+}

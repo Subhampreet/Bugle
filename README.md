@@ -1,8 +1,6 @@
 ## Bugle - Blogging Platform
 
-This is a basic Blogging app created using NextJS and Contentful as CMS, It can be used as a boilerplate to create more complex Blogging apps.
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a basic Blogging app created using NextJS and Contentful as CMS, It can be used as a boilerplate to create more complex Blogging apps. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 

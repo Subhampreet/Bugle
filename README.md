@@ -2,6 +2,8 @@
 
 This is a basic Blogging app created using NextJS and Contentful as CMS, It can be used as a boilerplate to create more complex Blogging apps. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![screenshot](https://github.com/Subhampreet/Bugle/assets/61475220/0f9f6ea8-8691-4724-9675-fbe22fe690eb)
+
 ## Getting Started
 
 First, run the development server:
